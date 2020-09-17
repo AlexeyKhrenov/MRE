@@ -1,9 +1,0 @@
-/home/alex/dev/MRE/MRE.Repo/bin/Debug/netstandard2.0/MRE.Repo.deps.json
-/home/alex/dev/MRE/MRE.Repo/bin/Debug/netstandard2.0/MRE.Repo.dll
-/home/alex/dev/MRE/MRE.Repo/bin/Debug/netstandard2.0/MRE.Repo.pdb
-/home/alex/dev/MRE/MRE.Repo/obj/Debug/netstandard2.0/MRE.Repo.csprojAssemblyReference.cache
-/home/alex/dev/MRE/MRE.Repo/obj/Debug/netstandard2.0/MRE.Repo.AssemblyInfoInputs.cache
-/home/alex/dev/MRE/MRE.Repo/obj/Debug/netstandard2.0/MRE.Repo.AssemblyInfo.cs
-/home/alex/dev/MRE/MRE.Repo/obj/Debug/netstandard2.0/MRE.Repo.csproj.CoreCompileInputs.cache
-/home/alex/dev/MRE/MRE.Repo/obj/Debug/netstandard2.0/MRE.Repo.dll
-/home/alex/dev/MRE/MRE.Repo/obj/Debug/netstandard2.0/MRE.Repo.pdb
